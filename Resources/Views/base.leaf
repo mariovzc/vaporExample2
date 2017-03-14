@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    #import("head")
+</head>
+    <ul>
+        <li> <a href="/home"> HOME </a> </li>
+        <li> <a href="/test"> TEST </a> </li>
+    </ul>
+    <body>
+        #import("body")
+    </body>
+</html>
